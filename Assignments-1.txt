@@ -1,0 +1,33 @@
+1. Given a number, write a program to reverse the digits of the number. e.g., the
+number 12345 should be displayed as 54321
+2. Write a program to determine the factorial of any given integer in a table format
+3. Write a program that computes the sum of the digits of a given integer number
+4. Write a program that prints the first 10 numbers of the Fibonacci Series
+5. Write a program that accepts values in US$ and converts each value entered to its
+Indian Rupees and British Pounds equivalent.
+6. Write a program that would calculate the value of money for a given period of
+years and print the details by giving the following details on one line of output:
+a. Principal Amount
+b. Interest
+c. Period in years
+d. Final value
+e. The program should ask user for Principal amount and Period and for the
+interest calculation, use the F.D. interest table from any bank website.
+7. Find the Mean, Median, Mode and Standard Deviation of an array of numbers
+8. Write a method IsPrimeNumber() that checks if a certain number is prime or not
+and returns true or false. Implement a test method to test the IsPrimeNumber()
+method.
+9. Write a program to sort any given array of numbers by 4 different methods that
+you know. There must be a facility to select ascending or descending order.
+Display the comparative metrics of the four methods like the time taken and the
+number of operations it took to complete the task with each method.
+10. Write a program to display the elements of a Pascal's triangle for 10 rows and
+print the results.
+11. Write a program that reads the following inputs from a class teacher:
+? Roll Number
+? Marks in Physics
+? Marks in Chemistry
+? Marks in Mathematics
+? Marks in Biology
+12. Write a program that tests if a given word or a sentence is an anagram or a
+palindrome.
